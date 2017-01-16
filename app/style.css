@@ -1,0 +1,28 @@
+/*
+ * style.css
+ * Copyright (C) 2017 jamiecharry
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+body {
+	background: white;
+	color: black;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item-active {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.nav-item {
+    padding: 1rem;
+
+    transition: all 0.3s ease-in-out;
+}
+
