@@ -40,8 +40,8 @@ $ npm install -g webpack webpack-dev-server
 Then run ```$ npm run dev``` again.
 
 ### Resources for Further Learning ###
-Udemy is great and there are (tons of React courses)[https://www.udemy.com/react-redux/] on there, sometimes on sale
+Udemy is great and there are [tons of React courses](https://www.udemy.com/react-redux/) on there, sometimes on sale
 for $15, a pretty good deal, but time consuming
 
-(Redux example app)[http://redux.js.org/docs/basics/]
+[Redux example app](http://redux.js.org/docs/basics/)
 
