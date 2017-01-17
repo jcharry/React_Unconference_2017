@@ -5,3 +5,4 @@ node_modules
 notes.txt
 npm-debug.log.*
 app/creds
+dist

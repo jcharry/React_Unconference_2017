@@ -15,14 +15,16 @@ body {
     flex-direction: row;
 }
 
+.nav-item {
+    transition: all 0.3s ease-in-out;
+}
+
 .nav-item-active {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: black;
     color: white;
 }
 
-.nav-item {
+.nav p {
     padding: 1rem;
-
-    transition: all 0.3s ease-in-out;
 }
 
